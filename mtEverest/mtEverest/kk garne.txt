@@ -1,0 +1,3 @@
+1 . Model banaunu paryo
+2 . Design banaunu xa
+2 . Views.py leknu paryo jasle tyo database bata retrueve garna sakos
